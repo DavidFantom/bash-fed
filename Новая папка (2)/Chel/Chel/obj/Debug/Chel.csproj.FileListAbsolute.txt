@@ -1,0 +1,6 @@
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\bin\Debug\Chel.exe.config
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\bin\Debug\Chel.exe
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\bin\Debug\Chel.pdb
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\obj\Debug\Chel.csprojResolveAssemblyReference.cache
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\obj\Debug\Chel.exe
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Chel\Chel\obj\Debug\Chel.pdb

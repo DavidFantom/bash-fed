@@ -1,0 +1,5 @@
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Music\Music\bin\Debug\Music.exe.config
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Music\Music\bin\Debug\Music.exe
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Music\Music\bin\Debug\Music.pdb
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Music\Music\obj\Debug\Music.exe
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\Music\Music\obj\Debug\Music.pdb
